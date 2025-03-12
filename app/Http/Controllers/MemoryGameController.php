@@ -9,6 +9,10 @@ class MemoryGameController extends Controller
         $path = storage_path('app/data/cards.json');
         $cards = json_decode(file_get_contents($path), true);
 
+        foreach ($cards as &$card) {
+            $card['image'] = url($card['image']);
+        }
+
         shuffle($cards);
 
         return response()->json($cards);
