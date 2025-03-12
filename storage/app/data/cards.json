@@ -1,0 +1,18 @@
+[
+    { "id": 1, "pair_id": 1, "image": "storage/cards/animal-1.png" },
+    { "id": 2, "pair_id": 1, "image": "storage/cards/animal-1.png" },
+    { "id": 3, "pair_id": 2, "image": "storage/cards/animal-2.png" },
+    { "id": 4, "pair_id": 2, "image": "storage/cards/animal-2.png" },
+    { "id": 5, "pair_id": 3, "image": "storage/cards/animal-3.png" },
+    { "id": 6, "pair_id": 3, "image": "storage/cards/animal-3.png" },
+    { "id": 7, "pair_id": 4, "image": "storage/cards/animal-4.png" },
+    { "id": 8, "pair_id": 4, "image": "storage/cards/animal-4.png" },
+    { "id": 9, "pair_id": 5, "image": "storage/cards/animal-5.png" },
+    { "id": 10, "pair_id": 5, "image": "storage/cards/animal-5.png" },
+    { "id": 11, "pair_id": 6, "image": "storage/cards/animal-6.png" },
+    { "id": 12, "pair_id": 6, "image": "storage/cards/animal-6.png" },
+    { "id": 13, "pair_id": 7, "image": "storage/cards/animal-7.png" },
+    { "id": 14, "pair_id": 7, "image": "storage/cards/animal-7.png" },
+    { "id": 15, "pair_id": 8, "image": "storage/cards/animal-8.png" },
+    { "id": 16, "pair_id": 8, "image": "storage/cards/animal-8.png" }
+]
