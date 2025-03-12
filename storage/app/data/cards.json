@@ -14,5 +14,13 @@
     { "id": 13, "pair_id": 7, "image": "storage/cards/animal-7.png" },
     { "id": 14, "pair_id": 7, "image": "storage/cards/animal-7.png" },
     { "id": 15, "pair_id": 8, "image": "storage/cards/animal-8.png" },
-    { "id": 16, "pair_id": 8, "image": "storage/cards/animal-8.png" }
+    { "id": 16, "pair_id": 8, "image": "storage/cards/animal-8.png" },
+    { "id": 17, "pair_id": 9, "image": "storage/cards/animal-9.png" },
+    { "id": 18, "pair_id": 9, "image": "storage/cards/animal-9.png" },
+    { "id": 19, "pair_id": 10, "image": "storage/cards/animal-10.png" },
+    { "id": 20, "pair_id": 10, "image": "storage/cards/animal-10.png" },
+    { "id": 21, "pair_id": 11, "image": "storage/cards/animal-11.png" },
+    { "id": 22, "pair_id": 11, "image": "storage/cards/animal-11.png" },
+    { "id": 23, "pair_id": 12, "image": "storage/cards/animal-12.png" },
+    { "id": 24, "pair_id": 12, "image": "storage/cards/animal-12.png" }
 ]

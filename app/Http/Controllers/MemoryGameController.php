@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 class MemoryGameController extends Controller
 {
-    public function getCards()
+    public function getCards(string $size)
     {
         $path = storage_path('app/data/cards.json');
         $cards = json_decode(file_get_contents($path), true);
@@ -12,6 +12,8 @@ class MemoryGameController extends Controller
         foreach ($cards as &$card) {
             $card['image'] = url($card['image']);
         }
+
+        $cards = array_splice($cards, 0, $size);
 
         shuffle($cards);
 
